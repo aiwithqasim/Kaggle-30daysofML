@@ -1,4 +1,4 @@
-# Kaggle-30daysofML
+# :zap: Kaggle-30daysofML
 Machine learning beginner → Kaggle competitor in 30 days. Non-coders welcome.
 ## How does the challenge work?
 ### Overview
@@ -12,13 +12,13 @@ On top of all of this, you’ll have the opportunity to attend elective workshop
 
 <img src = "https://github.com/qasim1020/Kaggle-30daysofML/blob/main/highlights.png">
 
-# #30DaysofML
+# :zap:#30DaysofML
 
 <p align="center">
   <img src="https://i.imgur.com/Ggqv4qe.gif" />
 </p>
 
-Day1. Joined <a href = "https://www.kaggle.com/qasimhassan">Kaggle</a> as contributor as I already joined so I just raise myself up as a conntributor.Day1 Tasks is available on <a href = "https://www.facebook.com/101503321238055/posts/618138172907898/?sfnsn=scwspmo">Post</a>.
+:arrow_right:Day1. Joined <a href = "https://www.kaggle.com/qasimhassan">Kaggle</a> as contributor as I already joined so I just raise myself up as a conntributor.Day1 Tasks is available on <a href = "https://www.facebook.com/101503321238055/posts/618138172907898/?sfnsn=scwspmo">Post</a>.
 
 ## FAQs
 ##### Q. I already have some familiarity with Python and/or Machine Learning. Can I still join the program?
