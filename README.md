@@ -12,11 +12,11 @@ On top of all of this, you’ll have the opportunity to attend elective workshop
 
 <img src = "https://github.com/qasim1020/Kaggle-30daysofML/blob/main/highlights.png">
 
+# #30DaysofML
+
 <p align="center">
   <img src="https://i.imgur.com/Ggqv4qe.gif" />
 </p>
-
-# #30DaysofML
 
 Day1. Joined <a href = "https://www.kaggle.com/qasimhassan">Kaggle</a> as contributor as I already joined so I just raise myself up as a conntributor.Day1 Tasks is available on <a href = "https://www.facebook.com/101503321238055/posts/618138172907898/?sfnsn=scwspmo">Post</a>.
 
