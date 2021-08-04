@@ -18,7 +18,9 @@ On top of all of this, you’ll have the opportunity to attend elective workshop
   <img src="https://i.imgur.com/Ggqv4qe.gif" />
 </p>
 
-:arrow_right:Day1. Joined <a href = "https://www.kaggle.com/qasimhassan">Kaggle</a> as contributor as I already joined so I just raise myself up as a conntributor.Day1 Tasks is available on <a href = "https://www.facebook.com/101503321238055/posts/618138172907898/?sfnsn=scwspmo">Post</a>.
+:arrow_right:Day01. Joined <a href = "https://www.kaggle.com/qasimhassan">Kaggle</a> as contributor as I already joined so I just raise myself up as a conntributor.Day1 Tasks is available on <a href = "https://www.facebook.com/101503321238055/posts/618138172907898/?sfnsn=scwspmo">Post</a>.
+
+:arrow_right:Day02. Completed <a href = "https://www.kaggle.com/learn/certification/qasimhassan/python">Python course </a> on <a href = "https://www.kaggle.com/qasimhassan">Kaggle</a>.Day2 Tasks is available on <a href = "https://www.facebook.com/101503321238055/posts/618138172907898/?sfnsn=scwspmo">Post</a>.
 
 ## FAQs
 ##### Q. I already have some familiarity with Python and/or Machine Learning. Can I still join the program?
