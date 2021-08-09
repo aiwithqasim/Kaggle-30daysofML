@@ -24,10 +24,14 @@ On top of all of this, you’ll have the opportunity to attend elective workshop
 
 :arrow_right:Day03. Completed <a href = "https://www.kaggle.com/learn/certification/qasimhassan/python">Python course </a> on <a href = "https://www.kaggle.com/qasimhassan">Kaggle</a>.Day2 Tasks is available on <a href = "https://www.facebook.com/101503321238055/posts/618138172907898/?sfnsn=scwspmo">Post</a>.
 
-:arrow_right:Day04. Started working on kaggle projec that is <a href = 'https://www.kaggle.com/c/learnplatform-covid19-impact-on-digital-learning'>here</a>.
+:arrow_right:Day04. Started working on kaggle project that is <a href = 'https://www.kaggle.com/c/learnplatform-covid19-impact-on-digital-learning'>here</a>.
 
 :arrow_right:Day05. Completed <a href = "https://www.kaggle.com/qasimhassan/covid-19-impact-on-digital-learning-eda-map">COVID-19 Impact on Digital Learning</a>notebook on <a href = "https://www.kaggle.com/qasimhassan">Kaggle</a>.
 
+:arrow_right:Day06. Started working on kaggle project that is <a href = 'https://www.kaggle.com/qasimhassan/titanic-eda-pycaret-predictive-analysis'>here</a>.
+
+:arrow_right:Day07. Completed <a href = "https://www.kaggle.com/qasimhassan/titanic-eda-pycaret-predictive-analysis">
+Titanic : EDA + PyCaret predictive analysis📉📈</a>notebook on <a href = "https://www.kaggle.com/qasimhassan">Kaggle</a>.
 ## FAQs
 ##### Q. I already have some familiarity with Python and/or Machine Learning. Can I still join the program?
 
