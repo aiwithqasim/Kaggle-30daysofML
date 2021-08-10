@@ -32,6 +32,10 @@ On top of all of this, you’ll have the opportunity to attend elective workshop
 
 :arrow_right:Day07. Completed <a href = "https://www.kaggle.com/qasimhassan/titanic-eda-pycaret-predictive-analysis">
 Titanic : EDA + PyCaret predictive analysis📉📈</a>notebook on <a href = "https://www.kaggle.com/qasimhassan">Kaggle</a>.
+
+:arrow_right:Day08. started <a href = "https://www.kaggle.com/learn/intro-to-machine-learning">Introduction to Machine Learning </a> and completed 3 lessons.
+
+
 ## FAQs
 ##### Q. I already have some familiarity with Python and/or Machine Learning. Can I still join the program?
 
