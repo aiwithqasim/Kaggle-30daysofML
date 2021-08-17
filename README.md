@@ -35,6 +35,8 @@ Titanic : EDA + PyCaret predictive analysis📉📈</a>notebook on <a href = "ht
 
 :arrow_right:Day08. started <a href = "https://www.kaggle.com/learn/intro-to-machine-learning">Introduction to Machine Learning </a> and completed 3 lessons.
 
+:arrow_right:Day09. complteted <a href = "https://www.kaggle.com/learn/intro-to-machine-learning">Introduction to Machine Learning </a>.
+
 
 ## FAQs
 ##### Q. I already have some familiarity with Python and/or Machine Learning. Can I still join the program?
