@@ -35,7 +35,9 @@ Titanic : EDA + PyCaret predictive analysis📉📈</a>notebook on <a href = "ht
 
 :arrow_right:Day08. started <a href = "https://www.kaggle.com/learn/intro-to-machine-learning">Introduction to Machine Learning </a> and completed 3 lessons.
 
-:arrow_right:Day09. complteted <a href = "https://www.kaggle.com/learn/intro-to-machine-learning">Introduction to Machine Learning </a>.
+:arrow_right:Day09. complteted 4 & 5th lesson of <a href = "https://www.kaggle.com/learn/intro-to-machine-learning">Introduction to Machine Learning </a>.
+
+:arrow_right:Day10. complteted 6th & 7th lesson of <a href = "https://www.kaggle.com/learn/intro-to-machine-learning">Introduction to Machine Learning </a>.
 
 
 ## FAQs
